@@ -1,2 +1,3 @@
 # AI-MIP
-Doucumentation hub for the AI-MIP initiative
+
+This repository is for a Doucumentation hub for the AI/Machine-Learning Earth System Model Intercomparison Project (AI-MIP) initiative.
