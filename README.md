@@ -8,7 +8,7 @@ This repository is a documentation hub for the AI/Machine-Learning Earth System 
 
 [![Contributors](https://contrib.rocks/image?repo=PCMDI/AI-MIP)](https://github.com/PCMDI/AI-MIP/graphs/contributors)
 
-Thanks to our contributors!
+This repo is being used for experimental purposes and is under active development.
 
 ## Acknowledgement
 
