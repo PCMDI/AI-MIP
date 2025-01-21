@@ -504,7 +504,7 @@
             "cell_measures":"area: areacella",
             "cell_methods":"time: mean",
             "comment":"Air Temperature",
-            "dimensions":"plev4,time,latitude,longitude",
+            "dimensions":"longitude latitude plev4 time",
             "frequency":"day",
             "long_name":"Air Temperature",
             "modeling_realm":"atmos",
