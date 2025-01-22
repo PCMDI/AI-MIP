@@ -13,7 +13,7 @@ from datetime import datetime
 infile = '/pscratch/sd/d/duan0000/ACE/output_ERA5_1/interpolated_init_1_T_.nc'
 inputVarName = '__xarray_dataarray_variable__'
 inputJson = 'AI-MIP_input.json'
-cmorTable = 'Tables/obs4MIPs_Aday.json'
+cmorTable = '../Tables/obs4MIPs_Aday.json'
 outputVarName = 'ta'
 outputUnits = 'K'
 
